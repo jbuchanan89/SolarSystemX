@@ -15,5 +15,10 @@ public class SolarSystem {
         slayer.color="green";
         slayer.temp="908k";
 
+        planet2 nobel = new planet2();
+        nobel.color = "black";
+        nobel.temp="9890";
+
+
     }
 }
